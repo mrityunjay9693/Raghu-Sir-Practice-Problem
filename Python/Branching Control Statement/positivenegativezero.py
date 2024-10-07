@@ -1,4 +1,5 @@
 """
+Problem 7:
 Write a python program to print user enter number is positive or negative or zero.
 """
 number = int(input("Enter a number: "))
